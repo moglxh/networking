@@ -5,5 +5,6 @@ Hands-on notes on DNS, done in an isolated lab (a Kali Linux VM) and written up 
 | Stage | Topic | Notes |
 |---|---|---|
 | 1 | Observing DNS on the wire | [01-observing-dns.md](01-observing-dns.md) |
+| 2 | How a Linux client decides where to look up a name | [02-resolution-on-linux.md](02-resolution-on-linux.md) |
 
 A row is added as each stage is finished.
