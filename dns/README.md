@@ -10,7 +10,7 @@ Hands-on notes on how DNS works, how it is attacked, and how tampering can be de
 | 4 | Tampering with DNS answers | [04-tampering.md](04-tampering.md) |
 | 5 | Detecting tampered DNS answers | [05-detection.md](05-detection.md) |
 | 6 | Replaying the Sogou DNS hijack in a lab | [06-case-replay.md](06-case-replay.md) |
-
+| 7 | Closing up the case with final exfiltration results.
 Scripts are in [`lab/`](lab/).
 
 ## Conventions
